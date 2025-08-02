@@ -9,4 +9,7 @@ MediatR
 
 
 
+
 CQRS
+
+<img width="1167" height="573" alt="截圖 2025-08-02 下午2 38 44" src="https://github.com/user-attachments/assets/df7b8414-cfdd-4a58-af77-85caa3a8105e" />
