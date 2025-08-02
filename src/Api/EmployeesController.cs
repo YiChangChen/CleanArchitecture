@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Application.Employees.CreateEmployee;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -23,6 +19,7 @@ namespace Api
         public async Task<IActionResult> Create(CreateEmployeeCommand command)
         {
             var id = await _mediator.Send(command);
+            // return Ok(id);
             return CreatedAtAction(nameof(Create), new { id }, command);
         }
     }
