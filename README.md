@@ -4,10 +4,7 @@ MediatR
 
 <img width="704" height="263" alt="截圖 2025-08-02 下午2 28 51" src="https://github.com/user-attachments/assets/e4900080-60be-46f8-8326-e3b30edf8b69" />
 
-
 <img width="595" height="399" alt="截圖 2025-08-02 下午2 29 31" src="https://github.com/user-attachments/assets/b58180e2-b48f-494c-a7b1-aaba3a24dc60" />
-
-
 
 
 CQRS
